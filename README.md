@@ -51,3 +51,7 @@
 ### 8. Production
 
 - 📺 [Jeff Posnick - Production Ready Progressive Web Apps with vue-pwa-boilerplate](https://www.youtube.com/watch?v=MLciApf2WTc)
+
+## SASS
+
+- [How to do SASS Grandparent Selectors](https://codeburst.io/how-to-do-sass-grandparent-selectors-b8666dcaf961)
